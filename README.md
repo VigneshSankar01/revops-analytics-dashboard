@@ -34,7 +34,7 @@ The dashboard demonstrates a hybrid approach: cached data for fast loading (upda
 
 ## Project Structure
 ```
-sage-revops-dashboard/
+revops-analytics-dashboard/
 ├── frontend/                    # React application
 │   ├── src/
 │   │   ├── App.jsx             # Main dashboard component
@@ -153,8 +153,8 @@ If you're cloning this repository and want to run it yourself, here's everything
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/sage-revops-dashboard.git
-cd sage-revops-dashboard
+git clone https://github.com/YOUR_USERNAME/revops-analytics-dashboard.git
+cd revops-dashboard
 ```
 
 ### Step 2: Set Up Snowflake
